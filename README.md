@@ -1,4 +1,4 @@
-﻿# arduino-led with WIFI
+﻿# Arduino - Matrice de LED avec serveur WIFI
  
 Le but de projet est de pouvoir afficher des mots sur une matrice de led en faisant glissé des lettres de la droite vers la gauche. Les mots doivent être écrient via un clavier d'ordinateur. 
  
@@ -25,7 +25,7 @@ Le but de projet est de pouvoir afficher des mots sur une matrice de led en fais
 - Les touches ``` & # - _ ``` permettent de changer la couleur des pixels.
 
 
-### Equipe
+## Equipe
 
 * Burstein 
 * Azoulay
