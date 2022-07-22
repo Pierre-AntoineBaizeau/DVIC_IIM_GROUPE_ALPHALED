@@ -36,8 +36,9 @@ Le projet fonctionne aussi en wifi  avec les logs suivant :
   <img src="https://user-images.githubusercontent.com/70761069/180448758-703a61c4-706b-4edf-8bad-e12b47384e89.jpg" width="25%" /> 
   <img src="https://user-images.githubusercontent.com/70761069/180446301-2e197a3b-27ab-4d5f-968d-7e3a6f477216.jpg" width="25%" />
   <img src="https://user-images.githubusercontent.com/70761069/180449416-fb26244f-2078-4678-a694-61c54612bc9c.jpg" width="44%" />
+  <img src="https://user-images.githubusercontent.com/70761069/180486803-64bc340b-c29f-493c-b710-d75e69996a87.jpg" width="35%" />
+  <img src="https://user-images.githubusercontent.com/70761069/180486830-cd455939-8cdb-42e7-9f95-fada412ddbbd.jpg" width="35%" />
 </p>
-
 
 ## 💯 Equipe
 
