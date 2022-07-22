@@ -2,8 +2,8 @@
  
 ## Materiel 
  
-> ESP32
-> Une matrice de led 
-> 3 fils femelles vers femelles
+> ESP32 <br>
+> Une matrice de led <br>
+> 3 fils femelles vers femelles <br>
 > un cable d'alimentation usb c vers usb 
 
