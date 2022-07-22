@@ -31,11 +31,10 @@ Le but de projet est de pouvoir afficher des mots sur une matrice de led en fais
 ## 👋 La vie du projet
 
 <p float="left" align="center">
-  <img src="https://user-images.githubusercontent.com/70761069/180445841-9e58c60f-2462-41a3-8858-3f1e4a2d0031.jpg" width="300" />
-  <img src="https://user-images.githubusercontent.com/70761069/180446602-6f4428e9-1c7a-44f0-918f-dcbc35421700.jpg" width="300" /> 
-  <img src="https://user-images.githubusercontent.com/70761069/180446301-2e197a3b-27ab-4d5f-968d-7e3a6f477216.jpg" width="300" />
+  <img src="https://user-images.githubusercontent.com/70761069/180448758-703a61c4-706b-4edf-8bad-e12b47384e89.jpg" width="250" /> 
+  <img src="https://user-images.githubusercontent.com/70761069/180446301-2e197a3b-27ab-4d5f-968d-7e3a6f477216.jpg" width="250" />
+  <img src="https://user-images.githubusercontent.com/70761069/180449416-fb26244f-2078-4678-a694-61c54612bc9c.jpg" width="443" />
 </p>
-
 
 
 ## 💯 Equipe
