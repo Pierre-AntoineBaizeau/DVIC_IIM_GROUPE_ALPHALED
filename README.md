@@ -26,6 +26,9 @@ Le but de projet est de pouvoir afficher des mots sur une matrice de led en fais
 - Pour afficher un mot sur la matrice de led il faut appuyer sur la touche ``` entrer ```.
 - Les touches ``` & # - _ ``` permettent de changer la couleur des pixels.
 
+Le projet fonctionne aussi en wifi les logs suivant :
+- nom du reseau : "ESP32_WIFI_BENJI"
+- Mot de passe : "lemotdepasse"
 
 ## 👋 La vie du projet
 
