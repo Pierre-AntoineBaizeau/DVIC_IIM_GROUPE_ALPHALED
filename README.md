@@ -1,4 +1,7 @@
-﻿# Arduino - Matrice de LED avec serveur WIFI
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+
+
+# Arduino - Matrice de LED avec serveur WIFI
  
 Le but de projet est de pouvoir afficher des mots sur une matrice de led en faisant glissé des lettres de la droite vers la gauche. Les mots doivent être écrient via un clavier d'ordinateur. 
  
@@ -31,13 +34,12 @@ Le but de projet est de pouvoir afficher des mots sur une matrice de led en fais
   <img src="https://user-images.githubusercontent.com/70761069/180445841-9e58c60f-2462-41a3-8858-3f1e4a2d0031.jpg" width="300" />
   <img src="https://user-images.githubusercontent.com/70761069/180446602-6f4428e9-1c7a-44f0-918f-dcbc35421700.jpg" width="300" /> 
   <img src="https://user-images.githubusercontent.com/70761069/180446301-2e197a3b-27ab-4d5f-968d-7e3a6f477216.jpg" width="300" />
-  <img src="https://user-images.githubusercontent.com/70761069/180446352-654a9bc0-b38e-4d7c-9e48-374737e6321a.jpg" width="300" /> 
 </p>
 
 
 
-##  Equipe
+## 💯 Equipe
 
-* Burstein 
-* Azoulay
-* Baizeau 
+* [Karen Azoulay](https://github.com/Karen160)
+* [Pierre-Antoine Baizeau](https://github.com/Pierre-AntoineBaizeau)
+* [Benjamin Burstein](https://github.com/IIMBenjaminBurstein)
